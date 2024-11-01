@@ -26,7 +26,7 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📊 Stats
 
 ![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnurKaplqn&show_icons=true&theme=gruvbox)
-[![OnurKaplqn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OnurKaplqn&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![OnurKaplqn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OnurKaplqn&theme=gruvbox)]
 
 
 #
