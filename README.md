@@ -32,7 +32,7 @@
 #
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<!--
+<
 <details>
  <summary><h3>👨‍💻 Onur's Coding Journey</h3></summary>
    II started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself Android development and AI algorithms with a dream to build my own app and  train my own AI.
