@@ -44,5 +44,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+![GitHub Pac-Man Animation](https://raw.githubusercontent.com/<Onurkaplqn>/<Onurkaplqn>/output/github-pacman.svg)
+
+
 
 
