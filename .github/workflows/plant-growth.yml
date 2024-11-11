@@ -23,11 +23,13 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
+        working-directory: ./
 
       # Bitkisel büyüme animasyonunu oluştur.
       - name: Generate Plant Growth Animation
         run: |
-          python scripts/generate_growth.py
+          python generate_growth.py
+        working-directory: ./scripts
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
