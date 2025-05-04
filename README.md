@@ -24,9 +24,7 @@
 <br />
 
 
-### 📊 Stats
 
-![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnurKaplqn&show_icons=true&theme=gruvbox)
 
 
 #
@@ -47,7 +45,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+### 📊 Stats
 
+![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnurKaplqn&show_icons=true&theme=gruvbox)
 
 
 
